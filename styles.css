@@ -1,0 +1,46 @@
+title{
+	font-weight: bold;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	padding: 0.5em;
+	font-size: 50pt;
+  }
+   img{
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+  }
+  p {
+	color: black;
+	font-family: sans-serif;
+  }
+  div {
+	font-style: italic;
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: light gray;
+	padding: 0.5em;
+  }
+  span{
+	font-weight: bold;
+  }
+  img {
+	width: 300px;
+	height: 200pm;
+	border-width: 2px;
+	border-style: solid;
+	border-color: light gray;
+	box-sizing: border-box;
+	padding:0.5em;
+  }
+  ul{
+	list-style: none;
+  }
+  .card {
+	max-width: 320px;
+	margin: 0 auto;
+	border: 1px solid black;
+	box-sizing: border-box;
+	padding: 0;
+  }
